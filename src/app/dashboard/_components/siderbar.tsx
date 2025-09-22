@@ -7,7 +7,7 @@ import { useState } from "react"
 import { usePathname } from "next/navigation"
 
 import { Button } from "@/components/ui/button"
-import logoImg from "../../../../../public/logo-width.png"
+import logoImg from "../../../../public/logo-width.png"
 import { Sheet, SheetContent, SheetTrigger, SheetTitle, SheetDescription } from "@/components/ui/sheet"
 import { Banknote, CalendarCheck2, ChevronLeft, ChevronRight, Folder, List, Settings, type LucideIcon } from "lucide-react"
 
